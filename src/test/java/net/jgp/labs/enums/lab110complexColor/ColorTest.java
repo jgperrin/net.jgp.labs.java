@@ -2,7 +2,7 @@ package net.jgp.labs.enums.lab110complexColor;
 
 import org.junit.Test;
 
-import net.jgp.labs.enums.lab110complexColor.Color;
+import net.jgp.labs.java.enums.lab110complexColor.Color;
 
 public class ColorTest {
 

@@ -1,4 +1,4 @@
-package net.jgp.labs.enums.lab100;
+package net.jgp.labs.java.constants.lab100declaration;
 
 public class Constants {
     public static final String THIS_IS_A_STRING_CONSTANT = "value";

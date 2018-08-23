@@ -1,4 +1,4 @@
-package net.jgp.labs.enums.lab110complexColor;
+package net.jgp.labs.java.enums.lab110complexColor;
 
 public enum Color {
     RED("#ff0000"), WHITE("#ffffff"), BLUE("#0000ff");
