@@ -1,4 +1,4 @@
-package net.jgp.labs.java.biginter.l000_display;
+package net.jgp.labs.java.math.bigInteger.lab100display;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;

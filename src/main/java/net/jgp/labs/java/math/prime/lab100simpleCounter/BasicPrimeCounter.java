@@ -1,4 +1,4 @@
-package net.jgp.labs.java.prime;
+package net.jgp.labs.java.math.prime.lab100simpleCounter;
 
 import java.util.ArrayList;
 import java.util.List;
