@@ -1,7 +1,7 @@
-package net.jgp.labs.email.lab100firstEmails;
+package net.jgp.labs.java.email.lab100firstEmails;
 
-import net.jgp.labs.email.lab100firstEmails.utils.MailMessage;
-import net.jgp.labs.email.lab100firstEmails.utils.MailSender;
+import net.jgp.labs.java.email.lab100firstEmails.utils.MailMessage;
+import net.jgp.labs.java.email.lab100firstEmails.utils.MailSender;
 import net.jgp.labs.utils.DebugUtils;
 
 public class FirstMail {

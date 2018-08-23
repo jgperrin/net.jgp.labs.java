@@ -1,7 +1,7 @@
 /**
  * 
  */
-package net.jgp.labs.math.limits.lab100infinityCounter;
+package net.jgp.labs.java.math.limits.lab100infinityCounter;
 
 import java.math.BigInteger;
 
