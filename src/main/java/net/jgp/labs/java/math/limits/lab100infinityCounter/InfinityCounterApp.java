@@ -3,8 +3,6 @@
  */
 package net.jgp.labs.java.math.limits.lab100infinityCounter;
 
-import java.math.BigInteger;
-
 /**
  * @author jgp
  * 
