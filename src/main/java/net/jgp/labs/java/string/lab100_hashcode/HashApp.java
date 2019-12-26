@@ -1,4 +1,4 @@
-package net.jgp.labs.java.string;
+package net.jgp.labs.java.string.lab100_hashcode;
 
 public class HashApp {
 
